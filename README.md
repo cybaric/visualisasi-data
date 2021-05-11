@@ -1,2 +1,2 @@
 # visualisasi-data
-visualisasi data dengan python
+visualisasi data statistik aplikasi Time Machine dari google console dengan python
